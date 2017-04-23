@@ -7,6 +7,7 @@ Algorithm is a tool that helps your computer run efficiently. And Basics of Alg
 >In computer science a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most-used orders are numerical order and lexicographical order. Efficient sorting is important for optimizing the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists.  
 
 >컴퓨터 과학에서 정렬 알고리즘은 목록의 요소를 특정 순서로 놓는 알고리즘입니다. 가장 많이 사용되는 오더는 숫자 순서와 사전식 순서입니다. 효율적인 정렬은 입력 데이터가 정렬된 목록에 있어야하는 다른 (탐색이나 병합 정렬 같은)알고리즘의 사용을 최적화하는 데 중요합니다.  
+[참고](https://en.wikipedia.org/wiki/Sorting_algorithm "wikipeida::Sorting Algorithm")
 
 ## Sorting Algroithm
 1. Bubble Sort
@@ -15,7 +16,9 @@ Algorithm is a tool that helps your computer run efficiently. And Basics of Alg
 4. Merge Sort
 5. Quick Sort
 
-### 1.Bubble Sort
-Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this.
+## 1. Bubble Sort
+Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this.  
 
-### 2.Selection Sort
+버블 정렬은 정렬 기본 방법입니다. 쉽게 구현한다고 여겨져 많은 사람들이 이것으로 정렬 코드를 짜기 시작합니다.  
+
+### 2. Selection Sort
