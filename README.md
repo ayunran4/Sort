@@ -17,6 +17,10 @@ Algorithm is a tool that helps your computer run efficiently. And Basics of Alg
 * __Efficient Sort__  
   1.Merge Sort  
   2.Quick Sort  
+* __Distribution Sort__  
+  1.Counting Sort  
+  2.Bucket Sort  
+  3.Radix Sort  
 
 ## 1. Bubble Sort
 Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this.  
