@@ -10,11 +10,13 @@ Algorithm is a tool that helps your computer run efficiently. And Basics of Alg
 [참고](https://en.wikipedia.org/wiki/Sorting_algorithm "wikipeida::Sorting Algorithm")
 
 ## Sorting Algroithm
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-4. Merge Sort
-5. Quick Sort
+* __Simple Sort__  
+  1.Bubble Sort  
+  2.Selection Sort  
+  3.Insertion Sort  
+* __Efficient Sort__  
+  1.Merge Sort  
+  2.Quick Sort  
 
 ## 1. Bubble Sort
 Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this.  
