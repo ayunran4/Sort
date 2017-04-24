@@ -25,8 +25,8 @@ All of sorting algorithm will be made by C language. The sorting algorithm to be
   3.Radix Sort  
 
 ## 1. Bubble Sort
-Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this.
+Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this. The logic of procedure is as follow:
 
-버블 정렬은 정렬 기본 방법입니다. 쉽게 구현한다고 여겨져 많은 사람들이 이것으로 정렬 코드를 짜기 시작합니다.  
-
+버블 정렬은 기본 정렬 방법입니다. 쉽게 구현한다고 여겨져 많은 사람들이 이것으로 정렬 코드를 짜기 시작합니다. 버블 정렬은 이웃하는 두 개의 인덱스를 비교하여 기준에 따라 값을 맨뒤로 넘겨 정렬하는 방법입니다. 진행 로직은 다음과 같습니다:  
+1. 
 ## 2. Selection Sort
