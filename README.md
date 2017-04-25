@@ -25,20 +25,21 @@ All of sorting algorithm will be made by C language. The sorting algorithm to be
   3.Radix Sort  
 
 ## 1. Bubble Sort
-Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this. The logic of procedure is as follow:
+Bubble Sort is a basic method of one. It is considered to describe easy, so lots of people start to make sorting code with this. The space-complexity is O(n). The logic of procedure is as follow:
 
-버블 정렬은 기본 정렬 방법입니다. 쉽게 구현한다고 여겨져 많은 사람들이 이것으로 정렬 코드를 짜기 시작합니다. 버블 정렬은 이웃하는 두 개의 인덱스를 비교하여 기준에 따라 값을 맨뒤로 넘겨 정렬하는 방법입니다. 진행 로직은 다음과 같습니다:
+버블 정렬은 기본 정렬 방법입니다. 쉽게 구현한다고 여겨져 많은 사람들이 이것으로 정렬 코드를 짜기 시작합니다. 버블 정렬은 이웃하는 두 개의 인덱스를 비교하여 기준에 따라 값을 맨뒤로 넘겨 정렬하는 방법입니다. 공간 복잡도는 O(n)입니다. 진행 로직은 다음과 같습니다:
 
 1. Compare the current index with the next index value.
 2. If the next index is bigger than the current one, swith them.
 3. If it doesn't, don't switch and compare the next consecutive values.
 4. Repeat this (total array size - number of circulated to present) times.  
 
-_
-
+:
 1. 현재 인덱스와 바로 다음의 인덱스 값을 비교
 2. 현재 인덱스가 다음 인덱스보다 크면 바꿔줌
 3. 다음 인덱스가 더 크면 교환하지 않고, 그 다음의 연속된 값을 비교함
 4. 이를 (전체 배열 크기 - 현재까지 순환한 바퀴 수)만큼 반복
 
 ## 2. Selection Sort
+Selection Sort finds the smallest value and insets it into the current index to sort.  
+선택 정렬은 가장 작은 값을 찾아 현재 인덱스에 삽입하여 정렬합니다. 
