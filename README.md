@@ -41,5 +41,6 @@ Bubble Sort is a basic method of one. It is considered to describe easy, so lots
 4. 이를 (전체 배열 크기 - 현재까지 순환한 바퀴 수)만큼 반복
 
 ## 2. Selection Sort
-Selection Sort finds the smallest value and insets it into the current index to sort.  
+Selection Sort finds the smallest value and inserts it into the current index to sort.  
 선택 정렬은 가장 작은 값을 찾아 현재 인덱스에 삽입하여 정렬합니다. 
+
