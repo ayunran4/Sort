@@ -41,6 +41,15 @@ Bubble Sort is a basic method of one. It is considered to describe easy, so lots
 4. 이를 (전체 배열 크기 - 현재까지 순환한 바퀴 수)만큼 반복
 
 ## 2. Selection Sort
-Selection Sort finds the smallest value and inserts it into the current index to sort.  
-선택 정렬은 가장 작은 값을 찾아 현재 인덱스에 삽입하여 정렬합니다. 
+Selection Sort finds the smallest value and inserts it into the current index to sort. The space-complexity is O(n^2). The logic of procedure is as follow:
 
+선택 정렬은 가장 작은 값을 찾아 현재 인덱스에 삽입하여 정렬합니다. 공간 복잡도는 O(n^2)입니다. 진행 로직은 다음과 같습니다:
+
+1. Find the smallest value from the beginning of the index to the last array value.
+2. If you find the smallest one, replace it with the current index value.
+3. Repeat the above procedure at the next index.
+
+:
+1. 인덱스의 맨 앞부터 마지막 배열값 중 가장 작은 값을 찾음
+2. 가장 작은 값을 찾으면, 그 값을 현재 인덱스 값과 바꿈
+3. 다음 인덱스에서 위 과정 반복
